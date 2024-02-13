@@ -1,9 +1,10 @@
-# 🙂 DalKom Shop
+# <img width="45px" height="auto" src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4"> DalKom Shop
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+    <img width="500px" src="https://github.com/KEA-DoKebi/.github/assets/78808933/e703334f-23f8-4905-925f-352c5b704e65">
   <br>
+
 </p>
 
 ## 프로젝트 소개
@@ -41,7 +42,16 @@ GIF Images
 
 | Name | Student Number | University | Contributed Parts | Github Link |
 | :---: | :---: | :---: | :---: | :---: |
+| 최다정 | 201736049 | 가천대 | PM, Back | [Github](https://github.com/allrightDJ0108) |
+| 김민준 | 201835419 | 가천대 | PL, Infra | [Github](https://github.com/minjun0707) |
+| 김동현 | 201935217 | 가천대 | Infra | [Github](https://github.com/eastlighting1)|
+| 김민수 | 201735812 | 가천대 | Front | [Github](https://github.com/ms987796) |
+| 김성준 | 201735925 | 가천대 | Front, Infra | [Github](https://github.com/sungjun-singer) |
 | 김주혜 | 202034909 | 가천대 | Front | [Github](https://github.com/juhye87) |
+| 김지오 | 202035321 | 가천대 | Back | [Github](https://github.com/xornjswldh) |
+| 류창민 | 201735826 | 가천대 | Back | [Github](https://github.com/changmeen) |
+| 백현정 | 201935059 | 가천대 | Back | [Github](https://github.com/Baekhyunjung) |
+| 황수하 | 201735899 | 가천대 | Back | [Github](https://github.com/hp0724) |
 
 <br>
 
