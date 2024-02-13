@@ -37,7 +37,7 @@ GIF Images
 
 <br>
 
-## 팀원 & R&R
+## 팀원
 
 | Name | Student Number | University | Contributed Parts | Github Link |
 | :---: | :---: | :---: | :---: | :---: |
