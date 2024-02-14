@@ -1,4 +1,4 @@
-# <img width="45px" height="auto" src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4"> DalKom Shop
+# <img width="40px" height="auto" src="https://avatars.githubusercontent.com/u/155041511?s=200&v=4"> <span style="font-size: 100px font-weight: bold">Dalkom Shop</span>
 
 <p align="center">
   <br>
