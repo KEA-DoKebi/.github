@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    <img width="500px" src="https://github.com/KEA-DoKebi/.github/assets/78808933/e703334f-23f8-4905-925f-352c5b704e65">
+    <img width="1000px" height="750px" src="https://github.com/KEA-DoKebi/.github/assets/78808933/e703334f-23f8-4905-925f-352c5b704e65">
   <br>
 
 </p>
