@@ -75,16 +75,6 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 <br>
 
-
-## 기술 스택
-
-
- ![2](https://github.com/KEA-DoKebi/.github/assets/75898031/d2e2c854-34d2-4719-a502-a1ebac02efac)
-
-
-
-<br>
-
 ## 프로젝트 기간 및 일정
 
 | 일정               | 프로세스 단계   | 작업 내역                   | 산출물  |
@@ -98,6 +88,18 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
  
 
 <br>
+
+
+## 기술 스택
+
+
+ ![2](https://github.com/KEA-DoKebi/.github/assets/75898031/d2e2c854-34d2-4719-a502-a1ebac02efac)
+
+
+
+<br>
+
+
 
 ## 아키텍처
 
