@@ -58,7 +58,8 @@ GIF Images
 
 ## 기술 스택
 
-<img width="100%" src="https://user-images.githubusercontent.com/40762111/135794163-9c4978df-7ac3-4a17-a97e-8dd3afe64533.png" />
+
+![readme icon](https://github.com/KEA-DoKebi/.github/assets/75898031/eb75ef7d-9ccd-48e0-9ce2-399fd94d1f91)
 
 <br>
 
