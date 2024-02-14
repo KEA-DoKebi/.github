@@ -59,7 +59,9 @@ GIF Images
 ## 기술 스택
 
 
-![readme icon](https://github.com/KEA-DoKebi/.github/assets/75898031/eb75ef7d-9ccd-48e0-9ce2-399fd94d1f91)
+ ![2](https://github.com/KEA-DoKebi/.github/assets/75898031/d2e2c854-34d2-4719-a502-a1ebac02efac)
+
+
 
 <br>
 
