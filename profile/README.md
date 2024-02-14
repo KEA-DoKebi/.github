@@ -95,7 +95,8 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 <p align="center">
   <br>
-   ![스크린샷 2024-02-14 135928](https://github.com/KEA-DoKebi/.github/assets/75898031/233ca6e7-54bb-46fe-a1f8-97bf20722cd4)
+   
+![아키텍처](https://github.com/KEA-DoKebi/.github/assets/75898031/7c33d6e1-718b-4e64-a318-c94a661be6f0)
 
 
   <br>
