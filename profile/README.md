@@ -87,7 +87,8 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 ## 프로젝트 기간 및 일정
 
-[프로젝트 기간 및 일정에 대한 정보를 입력하세요]
+ <img width="800px" height="600px" src="https://github.com/KEA-DoKebi/.github/assets/75898031/95f8d2b3-2d21-4968-ba10-279f914bdc05">
+ 
 
 <br>
 
