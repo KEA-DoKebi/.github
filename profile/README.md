@@ -7,7 +7,7 @@
 
 </p>
 
-###  :clapper:[Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone:[Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0)
+###  :clapper:[Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone:[Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 🔗 [DalKom.shop](https://dalkom.shop)
 
 <br>
 
