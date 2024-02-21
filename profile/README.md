@@ -7,8 +7,7 @@
 
 </p>
 
-###  :clapper:[Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone:[Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 🔗 [DalKom.shop](https://dalkom.shop)
-
+### 🍰 [DalKom.shop](https://dalkom.shop) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 
 <br>
 
 ## 프로젝트 소개
