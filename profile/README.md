@@ -7,6 +7,9 @@
 
 </p>
 
+###  :clapper:[Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone:[Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0)
+
+
 ## 프로젝트 소개
 
 ### **달콤한-혜택과-편안한-쇼핑공간**
@@ -145,5 +148,4 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 <br>
 
 ## 데모 영상
-
-[보러가기](link)
+[보러가기](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0)
