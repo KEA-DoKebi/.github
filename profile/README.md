@@ -125,7 +125,7 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 <p align="center">
   <br>
-    설명
+    
   <br>
 </p>
 
@@ -134,7 +134,7 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 <p align="center">
   <br>
-    움짤
+    
   <br>
 </p>
 
