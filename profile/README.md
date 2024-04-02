@@ -7,7 +7,7 @@
 
 </p>
 
-### 🍰 [DalKom.shop](https://dalkom.shop) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) 
+### 🍰 [DalKom.shop](https://dalkom.shop) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) :chart_with_upwards_trend: [Test Result](https://junit.dalkom.shop)
 <br>
 
 ## 프로젝트 소개
