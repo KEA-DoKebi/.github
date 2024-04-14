@@ -7,39 +7,20 @@
 
 </p>
 
-### 🍰 [DalKom.shop](https://dalkom.shop) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) :chart_with_upwards_trend: [Test Result](https://junit.dalkom.shop)
+###  :computer: [레포지토리](https://github.com/KEA-DoKebi) :clapper: [Demo](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk) :microphone: [Presentation](https://youtu.be/JE-EtwOLTw4?si=AyP1i8Ta6DoNsTc0) :chart_with_upwards_trend: [Test Result](https://junit.dalkom.shop)
 <br>
 
-## 프로젝트 소개
+## :red_car: 프로젝트 소개
 
-### **달콤한-혜택과-편안한-쇼핑공간**
+### DALKOM SHOP은 다음카카오(DKT)의 사내 몰
+- DalKom.Shop은 DKT 직원들을 위한 전용 쇼핑몰입니다.
 
-DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
-’달콤하다’와 ‘다음카카오’를 연상시켜 '달콤샵'으로 명명되었습니다.<br>
-이 이름은 ‘달다’는 의미뿐만 아니라 편안하고 포근하다는 감정을 담아,
-우리의 사내 몰이 사원들에게 편안하고 포근한 공간으로 기억되길 바라는 마음을 반영합니다.
+- 직원만 가입할 수 있으며, 각 직원은 개인 계정으로 로그인하여 제품 구매가 가능합니다.
 
-- **프로젝트 취지**
-
-    - '달콤하다'라는 표현에는 달다는 뿐만 아니라 편안하고 포근하다는 의미도 포함되어 있습니다.
-
-    - 이러한 감정을 사내몰 경험에 녹여내어, DKT 임직원들에게 달콤한 디저트처럼 다양한 혜택을 제공하고자 합니다.
-- **프로젝트 내용**
-
-    - DALKOM SHOP은 DKT 사내 직원들을 위한 전용 사내 몰입니다.
-
-    - 회사 내부에서만 접근 가능하며, 각 직원은 개인 계정으로 로그인하여 혜택 및 제품 구매가 가능합니다.
-
-    - 사내몰은 회사의 구매 정책에 따라 운영되며, 재고 관리, 결제 프로세스, 사용 권한 제어 등이 체계적으로 구축되어 있습니다.
-
-    - 회사에서 제공하는 마일리지를 활용하여 다양한 상품 및 혜택을 사내몰에서 이용할 수 있습니다.
-- **프로젝트 목표**
-
-    - DALKOM SHOP은 다양한 디저트처럼 다채로운 복지 혜택을 제공하여, 임직원들에게 편안하고 달콤한 경험을 선사합니다.
-
-    - 이를 통해 조직 내 화합과 만족도를 증진시키며, 사내몰을 더욱 즐거운 쇼핑 공간으로 만들어 나갈 것입니다.
+- 회사에서 제공하는 마일리지를 활용하여 다양한 상품 및 혜택을 이용할 수 있습니다.
 
 
+    
 <p align="justify">
 
 </p>
@@ -50,20 +31,131 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 </p>
 
-## 목차
-
-- [팀원](#팀원)
-- [기술 스택](#기술-스택)
+## :red_car: 목차
+- [핵심 기능](#핵심-기능)
 - [아키텍처](#아키텍처)
-- [주요 기능](#주요-기능)
-- [주요 화면](#주요-화면)
-- [데모 영상](#데모-영상)
+- [화면 구성](#화면-구성)
+- [주요 담당 업무](#주요-담당-업무)
+- [기술 스택](#기술-스택)
+- [팀원](#팀원)
+- [프로젝트 일정](#프로젝트-기간-및-일정)
 
 <br>
 
+## :red_car: 핵심 기능
+<img width="1396" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/b0c2350e-9bac-43df-be87-1830f6231aa8">
 <br>
 
-## 팀원
+## :red_car: 아키텍처
+![DoKebi 종료 보고서 (3)](https://github.com/minjun0707/readme/assets/75360915/4e00fe70-c87b-48d0-b263-6f675fbc1e70)
+
+<br>
+
+## :red_car: 화면 구성
+
+
+<table>
+  <tr>
+    <td>
+      <h3> 1. 로그인 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/a6275335-f5f0-4691-a9df-f5eaea32403f">
+    </td>
+    <td>
+      <h3> 2. 상품 조회 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/c4b6c9eb-0f0a-4eeb-916b-da305665dc47">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3> 3. 상품 비교 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/a81deb99-c017-4fc3-acfb-98d65d1bb2da">
+    </td>
+    <td>
+      <h3> 4. 상품 검색 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/d5acfa1f-a838-4e81-b1eb-5aa90ac002e6">
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      <h3> 5. 마일리지 충전 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/30e6650b-ff71-4062-98c8-af34b425c079">
+    </td>
+    <td>
+      <h3> 6. 관리자 대시보드 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/f97f52b2-3765-4b23-be72-f9baf8eb5451">
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      <h3> 7. 문의 대응 </h3>
+      <br>
+      <img src="https://github.com/minjun0707/readme/assets/75360915/ee5581b9-36f7-45e4-be49-7c2259528772">
+    </td>
+  </tr>
+
+  
+</table>
+
+
+
+
+## :red_car: 주요 담당 업무
+
+
+
+
+### 인프라
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/06138598-3ea6-4969-9f31-60149b557a62">
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/7f53a274-5c14-4eaa-9adc-98f6913dcc29">
+<br>
+<img width="1406" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/7ab9decf-f63c-4a76-8f45-aafdb24dc02b">
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/b4bfd9e1-f7d6-475e-9094-0d7153b3681c">
+<br>
+
+### CI/ CD
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/21a434c6-8681-4372-983d-7037e9188437">
+
+
+
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/c481eb60-b182-4917-9f65-a2ee3b457b60">
+<br>
+
+### 보안
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/1426740c-2dde-4da0-a81d-cf2378b2438d">
+<br>
+
+### 테스트
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/ee953dc7-1213-4dcf-96f2-83bd4b3d3067">
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/cbaef3c2-d5ff-4c95-9c17-c535fe4a1823">
+<br>
+
+### 기타
+<br>
+<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/da9746ea-ab64-4c35-be28-9ac6e8072689">
+<br>
+<img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
+
+
+## :red_car: 팀원
 
 | Name | Student Number | University | Contributed Parts | Github Link |
 | :---: | :---: | :---: | :---: | :---: |
@@ -80,14 +172,14 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 <br>
 
-## 프로젝트 기간 및 일정
+## :red_car: 프로젝트 기간 및 일정
 
 | 일정               | 프로세스 단계   | 작업 내역                   | 산출물  |
 | :---------------: | :------------: | :------------------------: | :-----: |
-| 23.12.27 ~ 24.01.05 | 기획 및 분석   | 요구사항 도출, 정의, 검토 <br> 프로젝트 정보수집 <br> 프로젝트 목표 수립 <br> 유스케이스 모델링  | WBS <br> 요구사항 정의서 <br>  용어사전 작성 <br> 업무흐름도 작성    |
-| 24.01.06 ~ 24.01.12 | 설계   | 기술 스펙 선택 <br> 화면 설계 <br> 데이터베이스 설계 <br> 내/외부 인터페이스 설계 <br> 산출물 검토  | 인터페이스 명세서 <br> 물리/논리 ERD <br>  테이블 설계서 <br> 시스템 구성도 <br> 소프트웨어 구성    |
-| 24.01.13 ~ 24.02.02 | 구현  | 공통 컴포넌트 설계 및 소스 생성 <br> 컴포넌트 설계 및 소스 생성 <br> 단위 테스트 <br> UI 설계 및 개발  | 명명 규칙 <br> 화면설계서 <br>  개발소스     |
-| 24.02.05 ~ 24.02.08 | 검증   | 테스트 준비 <br> 기준정보 데이터 생성 및 검증 <br> 테스트 수행 및 수정 <br> 유스케이스 모델링  | 통합 보고서 <br> 사용자 매뉴얼 <br>  운영자 매뉴얼     |
+| 23.12.27 ~ 24.01.05 | 기획 및 분석   | 요구사항 도출, 정의, 검토 <br> 프로젝트 정보수집 <br> 프로젝트 목표 수립 <br> 유스케이스 모델링  |  📌  WBS <br> 요구사항 정의서 <br>  용어사전 작성 <br> 업무흐름도 작성    |
+| 24.01.06 ~ 24.01.12 | 설계   | 📌 시스템 구성도 <br> 📌 기술 스펙 선택 <br> 화면 설계 <br> 데이터베이스 설계 <br> 내/외부 인터페이스 설계 <br> 산출물 검토  | 📌 시스템 구성도 <br> 📌 리소스 정의서 <br>인터페이스 명세서 <br> 물리/논리 ERD <br>  테이블 설계서    |
+| 24.01.13 ~ 24.02.02 | 구현  | 📌  인프라 구축 <br> 공통 컴포넌트 설계 및 소스 생성 <br> 컴포넌트 설계 및 소스 생성  <br> UI 설계 및 개발  | 명명 규칙 <br> 화면설계서 <br>  개발소스     |
+| 24.02.05 ~ 24.02.08 | 검증   | 📌 단위 테스트 <br> 📌 브라우저 속도 테스트 <br> 유스케이스 모델링  | 통합 보고서 <br> 사용자 매뉴얼 <br>  운영자 매뉴얼     |
 | 24.02.09 ~ 24.02.16 | 종료   | 사용자 및 운영자 화면 데모 영상  <br> 시나리오 작성 <br> 회고 진행 <br> 종료 보고서 작성 <br> 종료 발표회  | WBS <br> 데모영상 <br>  회고록 <br> 종료 보고서    |
  
  
@@ -95,7 +187,7 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 <br>
 
 
-## 기술 스택
+## :red_car: 기술 스택
 
 
  ![진짜 최종](https://github.com/KEA-DoKebi/.github/assets/75898031/5b917a1c-bcca-410e-bf9d-c42e31091926)
@@ -108,37 +200,6 @@ DALKOM SHOP은 다음카카오(DKT)의 사내 몰로,
 
 
 
-## 아키텍처
 
-<p align="center">
-  <br>
-   
- ![readmepng](https://github.com/KEA-DoKebi/.github/assets/75898031/4cbc5471-103b-4a51-9e4b-e4a20633663c)
-
-
-
-  <br>
-</p>
 
 <br>
-
-
-<p align="center">
-  <br>
-    
-  <br>
-</p>
-
-<br>
-
-
-<p align="center">
-  <br>
-    
-  <br>
-</p>
-
-<br>
-
-## 데모 영상
-[보러가기](https://youtu.be/JiH_-ZU2D8Q?si=hlXKrv7ETwXxyJmk)
