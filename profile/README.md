@@ -150,7 +150,6 @@
 
 ### 기타
 <br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/da9746ea-ab64-4c35-be28-9ac6e8072689">
 <br>
 <img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
 
