@@ -31,14 +31,7 @@
 
 </p>
 
-## :red_car: 목차
-- [핵심 기능](#핵심-기능)
-- [아키텍처](#아키텍처)
-- [화면 구성](#화면-구성)
-- [주요 담당 업무](#주요-담당-업무)
-- [기술 스택](#기술-스택)
-- [팀원](#팀원)
-- [프로젝트 일정](#프로젝트-기간-및-일정)
+
 
 <br>
 
@@ -47,7 +40,8 @@
 <br>
 
 ## :red_car: 아키텍처
-![DoKebi 종료 보고서 (3)](https://github.com/minjun0707/readme/assets/75360915/4e00fe70-c87b-48d0-b263-6f675fbc1e70)
+![진짜 최종](https://github.com/user-attachments/assets/f10cdefc-ddbb-4bb8-bca2-43460046b6f0)
+
 
 <br>
 
@@ -110,48 +104,9 @@
 
 
 
-## :red_car: 주요 담당 업무
 
 
 
-
-### 인프라
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/06138598-3ea6-4969-9f31-60149b557a62">
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/7f53a274-5c14-4eaa-9adc-98f6913dcc29">
-<br>
-<img width="1406" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/7ab9decf-f63c-4a76-8f45-aafdb24dc02b">
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/b4bfd9e1-f7d6-475e-9094-0d7153b3681c">
-<br>
-
-### CI/ CD
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/dalkom.shop/assets/75360915/21a434c6-8681-4372-983d-7037e9188437">
-
-
-
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/c481eb60-b182-4917-9f65-a2ee3b457b60">
-<br>
-
-### 보안
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/1426740c-2dde-4da0-a81d-cf2378b2438d">
-<br>
-
-### 테스트
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/ee953dc7-1213-4dcf-96f2-83bd4b3d3067">
-<br>
-<img width="1000" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/cbaef3c2-d5ff-4c95-9c17-c535fe4a1823">
-<br>
-
-### 기타
-<br>
-<br>
-<img width="1380" alt="image" src="https://github.com/minjun0707/readme/assets/75360915/17033053-ef5d-42bc-a492-97e6f41fefc4">
 
 
 ## :red_car: 팀원
